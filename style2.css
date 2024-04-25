@@ -1,0 +1,39 @@
+
+
+/*p.check{
+    color: rgb(143, 207, 186);
+}
+p.new.thing{
+    color: rgb(138, 138, 187);
+    border: 2px dashed rgb(207, 168, 174);
+}
+
+div p{
+    color: palevioletred;
+}
+a[href="www.land.gov bd"]{
+    background-color: yellowgreen;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+a[href*="facebook"]{
+    color: white;
+    background-color: red;
+    border: 2px solid rgb(154, 154, 206);
+}
+*/
+
+div{
+    color: rgb(114, 148, 148);
+    border: 1px solid pink;
+    margin: 40px;
+    padding: 20px;
+}
+p{
+    border: inherit;
+    margin: inherit;
+    color: rgb(222, 86, 120);
+}
